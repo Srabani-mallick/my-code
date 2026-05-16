@@ -1,6 +1,6 @@
 Code Repository
 
-This repository contains my programming practice, projects, and experiments as I continue to learn and improve my development skills.
+This repository contains my programming practice, experiments as I continue to learn and improve my  skills.
 Areas of Work
 
 Python Programming
