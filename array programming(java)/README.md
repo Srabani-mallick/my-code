@@ -31,5 +31,5 @@ This repository is created for:
 ```bash
 javac filename.java
 
-## Author
-Srabani Mallick
+]
+
