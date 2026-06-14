@@ -18,4 +18,4 @@ This repository contains Graph Theory programs implemented in java.
 ## Author
 
 Srabani Mallick
-B.Tech CSE, ITER SOA
+
