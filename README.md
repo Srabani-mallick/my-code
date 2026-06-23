@@ -10,10 +10,3 @@ HTML, CSS, JavaScript(little bit)
 Purpose
 
 The purpose of this repository is to maintain a structured record of my coding journey and to apply concepts through practical implementation.
-
-
-
-
-
-
-
