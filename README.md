@@ -7,7 +7,6 @@ Python Programming
 java programming
 Django Web Development
 HTML, CSS, JavaScript(little bit)
-
 ---
 
 **Purpose**
